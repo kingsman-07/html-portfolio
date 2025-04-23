@@ -1,2 +1,2 @@
 # html-portfolio
-Exploring it  :)
+A 90s' portfolio.lol :)
