@@ -1,2 +1,2 @@
 # html-portfolio
-A 90s' portfolio.lol :)
+an old guy's portfolio.lol :)
